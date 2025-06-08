@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: simpleapp-container
-          image: docker.io/itzikb/simpleapp:v0.2
+          image: docker.io/itzikb/simpleapp:v0.1
           ports:
             - containerPort: 8000
